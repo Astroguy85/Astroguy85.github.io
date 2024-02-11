@@ -49,12 +49,10 @@
 
     <section>
         <h2>Gallery</h2>
-        <!-- Add your astrophotography pictures here -->
-        <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\M42_Orion_Nebula.jpg" alt="M42 Orion Nebula">
-        <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\Moon.png" alt="Moon">
-        <img src="![M42_Orion_Nebula](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/bbf54a19-901b-42e6-84c4-371f84b0cee0)"
 ![M42 Orion Nebula](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/bdd34b05-a231-460b-81f0-8daefdf6c97b)
 ![Moon](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/296cf8f6-ea09-41ba-80bb-4b7b0396243e)
+![Moon](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/865ea296-adaa-45c9-9931-1e1d7526545a)
+![M42_Orion_Nebula](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/18a808bc-21fa-4303-9e57-39d620e5f3a1)
 
     
         <!-- Add more images as needed -->
