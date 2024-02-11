@@ -53,6 +53,8 @@
         <!-- Add your astrophotography pictures here -->
         <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\M42_Orion_Nebula.jpg" alt="M42 Orion Nebula">
         <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\Moon.png" alt="Moon">
+        ![M42_Orion_Nebula](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/bbf54a19-901b-42e6-84c4-371f84b0cee0)
+
         hello
     
         <!-- Add more images as needed -->
