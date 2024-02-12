@@ -51,8 +51,7 @@
     <section>
         <h2>Gallery</h2>
         <!-- Add your astrophotography pictures here -->
-        ![Moon](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/e7496931-57cd-44bb-8f5f-ec2cbce88763)
-        ![M42_Orion_Nebula](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/fd454a4a-f62d-433e-bdd9-99adeebd8255)
+        
         <img src="image1.jpg" alt="Astrophotography Image 1">
         <img src="image2.jpg" alt="Astrophotography Image 2">
         <!-- Add more images as needed -->
