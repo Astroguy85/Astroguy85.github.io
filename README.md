@@ -8,13 +8,3 @@
         <h2>Gallery</h2>
 ![M42 Orion Nebula](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/bdd34b05-a231-460b-81f0-8daefdf6c97b)
 ![Moon](https://github.com/Astroguy85/Astroguy85.github.io/assets/158858541/296cf8f6-ea09-41ba-80bb-4b7b0396243e)
-
-    
-        <!-- Add more images as needed -->
-    </section>
-
-    <footer>
-        <p>&copy; 2024 Craig's Astrophotography | Designed by Craig</p>
-    </footer>
-</body>
-</html>
