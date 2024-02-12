@@ -52,8 +52,6 @@
         <h2>Gallery</h2>
         <!-- Add your astrophotography pictures here -->
         <img src="M42_Orion_Nebula.jpg"
-        <img src="image1.jpg" alt="Astrophotography Image 1">
-        <img src="image2.jpg" alt="Astrophotography Image 2">
         <!-- Add more images as needed -->
     </section>
 
